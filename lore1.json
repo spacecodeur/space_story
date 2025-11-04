@@ -1,0 +1,29 @@
+{
+  "name": "Empire du Nord",
+  "description": "Un vaste empire dans les contrées du Nord.",
+  "regions": [
+    {
+      "name": "Capitale de l'Empire",
+      "description": "La région entourant la cité impériale.",
+      "locations": [
+        {
+          "name": "Cité de l'Empire du Nord",
+          "description": "La capitale où siège le roi Arion.",
+          "characters": [
+            {
+              "name": "Roi Arion",
+              "description": "Le monarque régnant sur l'Empire du Nord, connu pour sa sagesse."
+            }
+          ],
+          "events": [
+            {
+              "name": "Couronnement d'Arion",
+              "description": "La cérémonie où Arion a été couronné roi de l'Empire du Nord."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

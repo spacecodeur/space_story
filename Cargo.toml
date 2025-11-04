@@ -1,0 +1,3 @@
+[workspace]
+members = ["story-cli", "lore-rag"]
+resolver = "2"
