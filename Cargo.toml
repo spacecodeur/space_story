@@ -1,3 +1,5 @@
 [workspace]
-members = ["story-cli", "lore-rag"]
-resolver = "2"
+members = ["crates/*"]
+
+[workspace.package]
+edition = "2021"

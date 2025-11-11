@@ -1,0 +1,8 @@
+[package]
+name = "orchestrator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+lore = { path = "../lore" }
+structs = { path = "../structs" }
