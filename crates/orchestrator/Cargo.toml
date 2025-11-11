@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 lore = { path = "../lore" }
 structs = { path = "../structs" }
+prompt = {path = "../prompt"}

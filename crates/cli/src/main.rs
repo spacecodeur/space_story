@@ -1,11 +1,8 @@
 use cursive::Cursive;
 use cursive::align::{HAlign, VAlign};
-use cursive::theme::{BaseColor, Color, PaletteColor};
 use cursive::traits::*;
 use cursive::view::SizeConstraint;
-use cursive::views::{
-    Dialog, LinearLayout, ResizedView, SelectView, TextArea, TextView, ThemedView,
-};
+use cursive::views::{Dialog, LinearLayout, ResizedView, SelectView, TextView, ThemedView};
 use orchestrator::get_next_prompt;
 
 use crate::theme::panel_choices;
